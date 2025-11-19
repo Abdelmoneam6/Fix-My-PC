@@ -1,0 +1,8 @@
+{
+  "name": "FixMyRig",
+  "description": "An AI-powered PC hardware troubleshooting assistant. Diagnose issues via chat, visually analyze components for damage, and find drivers or manuals using Google Search.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
